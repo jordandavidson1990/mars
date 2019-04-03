@@ -207,7 +207,7 @@ button.btn.join-us{
   }
 }
 div.error-page{
-  padding: 400px;
+  padding-top: 100px;
 }
 @media only screen and (max-width:518px){
   button.btn.continue{
