@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import "../images/yer-maw.mp4"
 import "../images/Purple4.png"
 
 class Video extends Component{
