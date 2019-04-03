@@ -208,6 +208,9 @@ button.btn.join-us{
     font-size: large;
   }
 }
+div.error-page{
+  padding: 400px;
+}
 @media only screen and (max-width:518px){
   button.btn.continue{
     width:auto;
@@ -218,6 +221,9 @@ button.btn.join-us{
   }
   span{
     display: flex;
+  }
+  div.error-page{
+    padding:0;
   }
 }
 @media only screen and (width:375px){
@@ -242,9 +248,7 @@ button.btn.join-us{
     perspective: 1000px;
     /* padding: 380px; */
   }
-  div.error-page{
-    padding: 400px;
-  }
+  
 
 @keyframes shake {
   10%, 90% {
