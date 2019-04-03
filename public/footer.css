@@ -1,0 +1,14 @@
+.footer{
+    background-color: aliceblue;
+    text-align: center;
+    margin: none;
+      width: 100%;
+      margin-top: 1%;
+      color: #1f0606;
+      position: fixed;
+      margin-bottom: 4px;
+      bottom: 0;
+      width: 100%;
+      opacity: 0.7;
+      padding-bottom: 0;
+    }
